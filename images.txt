@@ -1,1 +1,1 @@
-stilleshan/frps:latest
+cooderl/wewe-rss-sqlite:latest
